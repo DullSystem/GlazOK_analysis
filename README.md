@@ -28,6 +28,6 @@
 - написан общий вывод по всем разделам.
 ### Применение результатов:
 - написаны рекомендации для улучшения посещаемости на основании полученных результатов.
-### Построен дашборд для презентации
-- https://public.tableau.com/app/profile/sergey.krasnoperov/viz/Book1_17279915361250/sheet4?publish=yes
+### Построен дашборд в Tableau :arrow_heading_down:
+- <https://public.tableau.com/app/profile/sergey.krasnoperov/viz/Book1_17279915361250/sheet4?publish=yes>
 ### Используемые библиотеки: `pandas, numpy, scipy, matplotlib, seaborn, plotly`
