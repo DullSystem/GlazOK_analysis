@@ -12,7 +12,7 @@
 - values_countries: Количество посетителей данной страны
 - views: Количество просмотров
 - visitors: Количество посещений
-## Ссылка на проект с интерактивными графиками: :arrow_heading_down: <https://nbviewer.org/gist/DullSystem/07c0ce490fb7b0b8ddaf63b558a3d680>
+## Ссылка на проект с интерактивными графиками: :arrow_heading_down: <a href = "https://nbviewer.org/gist/DullSystem/07c0ce490fb7b0b8ddaf63b558a3d680">Проект GlazOK Jupyter Notebook online
 ## Исследовательский анализ офтальмологического кабинета на основе данных группы Вконтакте.
 ### Выполнена предобработка данных.
 ### Проведен анализ данных:
