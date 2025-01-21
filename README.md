@@ -29,5 +29,5 @@
 ### Применение результатов:
 - написаны рекомендации для улучшения посещаемости на основании полученных результатов.
 ### Построен дашборд в Tableau :arrow_heading_down:
-#### <a href = "https://public.tableau.com/app/profile/sergey.krasnoperov/viz/Book1_17279915361250/sheet4?publish=yes">GlazOK dashboard Tableau</a>
+#### <a href = "https://public.tableau.com/app/profile/sergey.krasnoperov/viz/Book1_17279915361250/sheet4?publish=yes">Дашборд в Tableau</a>
 ### Используемые библиотеки: `pandas, numpy, scipy, matplotlib, seaborn, plotly`
