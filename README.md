@@ -1,5 +1,5 @@
 # GlazOK_analysis
-:eye_speech_bubble::eye_speech_bubble: офтальмологический кабинет глазок (<a href = "https://yandex.ru/maps/org/oftalmologicheskiy_kabinet_glazok/147793808547/?ll=34.971234%2C57.057411&z=17">ГлазОК на карте<a/>)
+:eye_speech_bubble::eye_speech_bubble:(<a href = "https://yandex.ru/maps/org/oftalmologicheskiy_kabinet_glazok/147793808547/?ll=34.971234%2C57.057411&z=17">Офтальмологический кабинет ГлазОК <a/>)
 ## Данные:
 - date: Дата посещения
 - age: Возрастная категория посетителя
